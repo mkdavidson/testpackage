@@ -1,0 +1,10 @@
+Package: testpackage
+Type: Package
+Title: Example package for ANTHRBIO 561 FA 2019
+Version: 0.1.0
+Author: Mena Davidson & Class
+Maintainer: The package maintainer mkdavid@umich.edu
+Description: IDK we'll see.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
